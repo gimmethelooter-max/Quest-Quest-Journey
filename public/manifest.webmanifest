@@ -1,0 +1,17 @@
+{
+  "name": "Quest Quest Journey",
+  "short_name": "QQJ",
+  "description": "A gamified life journey, quest tracker, and routine companion.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
